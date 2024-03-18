@@ -16,6 +16,15 @@ Check LinkedIn below👇
 
 ### JavaScript/React Native
 - Capable of planning and developing a straightforward [mobile app](https://github.com/TaruPe/budget.git)
+- See more mobile codes below
+    - [Firebase](https://github.com/TaruPe/firebase.git)
+    - [Weather](https://github.com/TaruPe/weather.git)
+    - [ToDo](https://github.com/TaruPe/todo.git)
+    - [Flatlist](https://github.com/TaruPe/flatlist.git)
+    - [Navigation](https://github.com/TaruPe/navigation.git)
+    - [Statusbar](https://github.com/TaruPe/statusbar.git)
+    - [Calorie Calculator](https://github.com/TaruPe/calorie-calculator.git)
+    - [Heart Rate Limits](https://github.com/TaruPe/heart-rate-limits.git)
 
 ### C++
 - Able to create various features for the required product
@@ -74,3 +83,23 @@ See the rest of the information in the portfolio👀
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tarupe.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taru-p-56249521a)
 
+## 🙋‍♀️ Group projects
+In this section you will find projects that have already been done and more are being added all the time.
+
+#### 💡 Led light ribbon
+
+Programmed different light functions on the Led strip using an arduino. The functions can be changed using the buttons on the remote control of the arduino.
+
+[Led light ribbon](https://github.com/TaruPe/Led-valonauha.git)
+
+
+#### 💵 ATMs
+
+A simple ATM implemented in C++ which, once logged in, allows you to check your account balance, review transactions and withdraw money. 
+
+[Automated teller machine](https://github.com/bank-tvt23kmo/group_20.git)
+
+
+#### 🔍 Finnkino search
+
+Coming soon...

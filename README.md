@@ -15,6 +15,7 @@ Check LinkedIn below👇
 - Familiar with postman
 
 ### JavaScript/React Native
+- React + MUI [here](https://github.com/TaruPe/testmui.git)
 - Capable of planning and developing a straightforward [mobile app](https://github.com/TaruPe/budget.git)
 - See more mobile codes below
     - [Firebase](https://github.com/TaruPe/firebase.git)
@@ -75,8 +76,13 @@ Check LinkedIn below👇
 - VirtualBox
 
 simple testing:
-- Cybress
-- Jest
+Cypress
+- [firstTest](https://github.com/TaruPe/firstTest.git)
+- [etoe](https://github.com/TaruPe/etoe.git)
+
+Jest
+- [register](https://github.com/TaruPe/register.git)
+- [calculator](https://github.com/TaruPe/calculator.git)
 
 See the rest of the information in the portfolio👀
 ## 🔗 Links

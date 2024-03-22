@@ -107,6 +107,6 @@ A simple ATM implemented in C++ which, once logged in, allows you to check your 
 [Automated teller machine](https://github.com/bank-tvt23kmo/group_20.git)
 
 
-#### 🔍 Finnkino search
+#### 🔍 Movie app
 
 Coming soon...

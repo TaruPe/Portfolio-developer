@@ -7,7 +7,7 @@ I am a Information Technology Engineering student with a keen interest in progra
 
 
 ## CV
-Check LinkedIn below👇
+Check LinkedIn below in the Links section👇
 ## 🛠 Skills
 
 ### Java Rest API
@@ -79,7 +79,7 @@ simple testing:
 
 Cypress
 - [firstTest](https://github.com/TaruPe/firstTest.git)
-- [etoe](https://github.com/TaruPe/etoe.git)
+- [e2e](https://github.com/TaruPe/etoe.git)
 
 Jest
 - [register](https://github.com/TaruPe/register.git)

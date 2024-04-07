@@ -79,7 +79,7 @@ simple testing:
 
 Cypress
 - [firstTest](https://github.com/TaruPe/firstTest.git)
-- [etoe](https://github.com/TaruPe/etoe.git)
+- [e2e](https://github.com/TaruPe/etoe.git)
 
 Jest
 - [register](https://github.com/TaruPe/register.git)

@@ -7,7 +7,7 @@ I am a Information Technology Engineering student with a keen interest in progra
 
 
 ## CV
-Check LinkedIn below👇
+Check LinkedIn below in the Links section👇
 ## 🛠 Skills
 
 ### Java Rest API

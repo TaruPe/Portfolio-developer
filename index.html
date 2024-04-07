@@ -9,7 +9,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/main.css" href="style.css"/>
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -154,7 +154,53 @@
 								<header class="major">
 									<h2>Project posters</h2>
 								</header>
-								<p>Coming soon 🏃‍♀️ Before that check my github👀</p>
+								  <body>
+									<div id="work-experiences" class="experience-container"></div>
+								
+									<script>
+										const workExperiences = {
+											display: true,
+											experience: [
+												{
+													role: "RGB led ribbon",
+													logo: '<a href="https://github.com/TaruPe/Led-valonauha/blob/main/Posteri/RGBledPosteri.PNG">Check poster</a>',
+													date: "May 2023",
+												},
+												{
+													role: "Bank ATM",
+													logo: '<a href="https://github.com/TaruPe/Posters/blob/main/BankAtm.PNG">Check poster</a>',
+													date: "December 2023",
+												},
+												// Lisää tulevat projektit tähän
+											]
+										};
+								
+										function renderWorkExperiences() {
+											const workExperiencesDiv = document.getElementById('work-experiences');
+								
+											if (workExperiences.display) {
+												workExperiences.experience.forEach(exp => {
+													const expDiv = document.createElement('div');
+													expDiv.classList.add('experience');
+													expDiv.innerHTML = `
+														<h2>${exp.role}</h2>
+														${exp.logo} <!-- Korvattu linkillä -->
+														<p>${exp.date}</p>
+													`;
+													if (exp.descBullets) {
+														exp.descBullets.forEach(bullet => {
+															expDiv.innerHTML += `<li>${bullet}</li>`;
+														});
+													}
+													workExperiencesDiv.appendChild(expDiv);
+												});
+											}
+										}
+								
+										renderWorkExperiences();
+									</script>
+								</body>
+								
 							</section>
 
 				<!-- Footer -->

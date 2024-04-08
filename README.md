@@ -104,7 +104,7 @@ Programmed different light functions on the Led strip using an arduino. The func
 
 A simple ATM implemented in C++ which, once logged in, allows you to check your account balance, review transactions and withdraw money. 
 
-[Automated teller machine](https://github.com/bank-tvt23kmo/group_20.git)
+[Automated teller machine poster]([https://github.com/bank-tvt23kmo/group_20.git](https://github.com/TaruPe/Posters/blob/main/BankAtm.PNG))
 
 
 #### 🔍 Movie app
